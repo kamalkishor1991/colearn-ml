@@ -21,3 +21,9 @@ __pycache__
 .#*
 .coverage
 *.swp
+
+
+msdchallenge/data/kaggle_visible_evaluation_triplets.txt
+msdchallenge/data/taste_profile_song_to_tracks.txt
+
+
